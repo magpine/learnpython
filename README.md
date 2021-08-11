@@ -1,3 +1,2 @@
 # PythonProject
-<!-- 
-This repository is to learn beginner and advanced level python concepts-->
+This repository is to learn beginner and advanced level python concepts
